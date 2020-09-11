@@ -1,4 +1,4 @@
-package com.example.labihc;
+package com.example.atividade1_2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
